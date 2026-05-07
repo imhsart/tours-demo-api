@@ -1,0 +1,81 @@
+[
+  {
+    id: "rec6d6T3q5EBIdCfD",
+    name: "Best of Paris in 7 Days Tour",
+    info: "Paris is one of the most iconic and romantic cities in the world, known for its timeless architecture, rich culture, world-famous museums, and unforgettable atmosphere. This 7-day Paris tour gives travelers the opportunity to fully experience the charm of the French capital while exploring some of its most famous attractions. During the trip, visitors can admire the Eiffel Tower both during the day and at night, enjoy peaceful walks along the Seine River, and discover historic neighborhoods filled with cafes, bakeries, and boutique stores. Guests will also visit the Louvre Museum, home to thousands of famous artworks including the Mona Lisa, and explore the stunning Notre-Dame Cathedral area. The tour includes guided city walks through Montmartre, where artists and musicians bring the streets to life. Travelers can enjoy authentic French cuisine, fresh pastries, and local wine while experiencing Parisian culture firsthand. Comfortable accommodations, transportation, and guided sightseeing make this tour perfect for couples, families, and solo travelers who want to enjoy the beauty, elegance, and history of Paris without worrying about planning every detail themselves.",
+    image: "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+    price: 1995,
+  },
+
+  {
+    id: "rec8Gf4K9LmPqRtY2",
+    name: "Amazing Switzerland Adventure",
+    info: "Switzerland offers some of the most breathtaking landscapes in Europe, making it a dream destination for travelers who love mountains, lakes, and peaceful natural beauty. This adventure tour takes visitors through some of Switzerland’s most scenic regions, including Zurich, Interlaken, Lucerne, and the Swiss Alps. Travelers will experience famous panoramic train rides that pass through snowy mountains, green valleys, and charming villages that look straight out of a postcard. The tour also includes opportunities to enjoy cable car rides, lake cruises, and visits to traditional Swiss towns filled with wooden chalets and cozy cafes. Guests can taste authentic Swiss chocolate and cheese while learning about the country’s culture and history. Outdoor lovers will enjoy hiking trails, mountain viewpoints, and fresh alpine air throughout the journey. The peaceful atmosphere combined with stunning scenery creates a relaxing and unforgettable travel experience. Whether visitors are taking photographs of the snow-covered peaks or simply enjoying quiet moments by crystal-clear lakes, this Switzerland adventure provides the perfect balance of excitement and relaxation for travelers of all ages.",
+    image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    price: 2499,
+  },
+
+  {
+    id: "rec2Xn7Vb4QwLpZt8",
+    name: "Discover Japan in 10 Days",
+    info: "Japan is a country where ancient traditions blend perfectly with modern technology, creating a unique travel experience unlike anywhere else in the world. This 10-day journey through Japan allows travelers to explore vibrant cities, peaceful temples, traditional markets, and beautiful natural scenery. Guests will begin their adventure in Tokyo, where bright neon lights, futuristic buildings, and busy shopping streets showcase Japan’s modern side. The tour also includes visits to historic Kyoto, where travelers can walk through bamboo forests, admire ancient shrines, and witness traditional tea ceremonies. Visitors will have the chance to ride the famous bullet train, experience authentic Japanese cuisine such as sushi and ramen, and explore local neighborhoods filled with cultural charm. During spring, cherry blossom trees transform parks and streets into stunning pink landscapes, while autumn offers colorful foliage across temples and gardens. Travelers can also relax in traditional hot springs and stay in authentic Japanese-style accommodations. This tour is designed for people who want to experience Japan’s culture, history, food, and technology all in one unforgettable journey filled with exciting discoveries and memorable experiences every day.",
+    image: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+    price: 2890,
+  },
+
+  {
+    id: "rec9Hu5Md1AsKpLq7",
+    name: "Greek Islands Escape",
+    info: "The Greek Islands are famous for their white buildings, blue waters, sunny beaches, and relaxing Mediterranean lifestyle. This island escape tour takes travelers through some of Greece’s most beautiful destinations, including Santorini and Mykonos, where visitors can enjoy breathtaking ocean views and unforgettable sunsets. Guests will explore charming villages built on cliffs overlooking the sea, wander through narrow stone streets lined with local shops, and enjoy delicious Greek cuisine made with fresh local ingredients. The tour includes opportunities for boat rides, beach relaxation, swimming in crystal-clear waters, and visits to historical sites connected to ancient Greek civilization. Travelers can enjoy peaceful evenings watching the sunset over the Aegean Sea while tasting traditional dishes such as gyros, seafood, olives, and Greek desserts. The relaxed atmosphere of the islands makes this tour perfect for travelers looking to escape busy city life and enjoy nature, culture, and comfort. Whether visitors are taking photographs of the iconic blue-domed churches or simply enjoying the sea breeze from a beachside cafe, this Greek Islands tour offers a peaceful and unforgettable Mediterranean vacation experience.",
+    image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    price: 1799,
+  },
+
+  {
+    id: "rec4Ty8Bn6VrXeWp3",
+    name: "Explore the Wonders of Egypt",
+    info: "Egypt is one of the world’s oldest civilizations and offers travelers an incredible journey through ancient history, legendary monuments, and fascinating cultural traditions. This tour gives visitors the chance to explore famous landmarks such as the Great Pyramids of Giza, the Sphinx, and ancient temples located along the Nile River. Travelers will learn about powerful pharaohs, ancient Egyptian mythology, and the engineering achievements that continue to amaze historians today. The experience also includes a relaxing Nile cruise where guests can enjoy scenic river views while traveling between historic cities like Luxor and Aswan. Along the way, travelers can visit local markets, taste authentic Egyptian cuisine, and interact with friendly local communities. Desert landscapes, camel rides, and beautiful sunsets create unforgettable moments throughout the journey. The tour combines education, adventure, and cultural exploration, making it ideal for history lovers and curious travelers alike. Comfortable accommodations and guided tours ensure that visitors can fully enjoy Egypt’s wonders while learning about one of the most influential civilizations in human history. Every destination on this tour tells a story that connects the modern world to ancient times.",
+    image: "https://images.unsplash.com/photo-1572252009286-268acec5ca0a",
+    price: 2195,
+  },
+
+  {
+    id: "rec7Qa3Lp9DsUvNx5",
+    name: "Safari Adventure in Kenya",
+    info: "Kenya is one of the best safari destinations in the world, offering travelers the opportunity to witness incredible wildlife and stunning natural landscapes up close. This safari adventure takes visitors deep into famous national parks and reserves where lions, elephants, giraffes, zebras, and many other animals roam freely across wide open savannahs. Travelers will experience guided safari drives led by experts who help guests safely observe animals in their natural environment while learning about local ecosystems and conservation efforts. The tour also includes visits to traditional villages where travelers can learn about Kenyan culture, music, and daily life. Beautiful sunrises and sunsets over the African plains create unforgettable moments perfect for photography and relaxation. Guests can stay in comfortable safari lodges surrounded by nature while enjoying delicious local meals and peaceful evenings under star-filled skies. The combination of adventure, wildlife, and cultural experiences makes this tour perfect for nature lovers and travelers seeking something truly different. Whether visitors are spotting animals during an early morning drive or listening to the sounds of nature at night, this Kenya safari creates memories that last a lifetime.",
+    image: "https://images.unsplash.com/photo-1516426122078-c23e76319801",
+    price: 3299,
+  },
+
+  {
+    id: "rec1Wz6Er5FtGyHu9",
+    name: "Magical Bali Retreat",
+    info: "Bali is a tropical paradise known for its peaceful atmosphere, beautiful beaches, green rice terraces, and deeply spiritual culture. This relaxing retreat gives travelers the opportunity to experience the island’s natural beauty while enjoying comfortable resorts, local traditions, and unforgettable scenery. Guests can visit ancient temples surrounded by forests, watch traditional Balinese dance performances, and explore vibrant local markets filled with handmade crafts and fresh tropical foods. The tour also includes visits to famous rice terraces, waterfalls, and beach destinations where travelers can relax under the sun or enjoy water activities such as snorkeling and surfing. Bali’s calm and welcoming atmosphere makes it one of the most popular destinations for people seeking relaxation and self-discovery. Travelers can enjoy spa treatments, yoga sessions, and peaceful walks through nature while learning about Balinese customs and spiritual practices. The island’s sunsets, friendly locals, and delicious cuisine create a warm and memorable experience throughout the trip. Whether visitors are enjoying quiet moments at a beachside resort or exploring hidden temples in the countryside, this Bali retreat offers the perfect balance of adventure, culture, and relaxation in one of the world’s most beautiful island destinations.",
+    image: "https://images.unsplash.com/photo-1537996194471-e657df975ab4",
+    price: 1599,
+  },
+
+  {
+    id: "rec5Ab8Kp2LmNoQr7",
+    name: "Northern Lights in Iceland",
+    info: "Iceland is a land of glaciers, volcanoes, waterfalls, and magical natural beauty that feels unlike anywhere else on Earth. This exciting Iceland tour gives travelers the opportunity to witness the famous Northern Lights while exploring dramatic landscapes filled with lava fields, black sand beaches, and icy lagoons. Visitors can relax in geothermal hot springs such as the Blue Lagoon, take guided glacier walks, and experience powerful waterfalls including Gullfoss and Skógafoss. The tour also includes scenic drives along Iceland’s famous Golden Circle route, where travelers can learn about the country’s volcanic activity and Viking history. During the winter months, the night skies come alive with colorful auroras dancing above snowy landscapes, creating unforgettable memories for photographers and nature lovers alike. Guests can enjoy cozy accommodations, traditional Icelandic meals, and peaceful moments surrounded by untouched wilderness. This adventure combines relaxation, exploration, and breathtaking scenery, making it perfect for travelers seeking a unique and unforgettable Nordic experience.",
+    image: "https://images.unsplash.com/photo-1476610182048-b716b8518aae",
+    price: 3499,
+  },
+
+  {
+    id: "rec3Cd9Xy7UvStMn1",
+    name: "Italian Food & Culture Tour",
+    info: "Italy is famous for its delicious cuisine, historic cities, artistic heritage, and beautiful countryside. This cultural tour allows travelers to explore Rome, Florence, Venice, and other iconic destinations while experiencing authentic Italian traditions and flavors. Guests can visit ancient landmarks such as the Colosseum, admire Renaissance art in Florence, and enjoy romantic gondola rides through the canals of Venice. The tour also includes cooking classes where travelers can learn to prepare fresh pasta, pizza, and traditional Italian desserts from local chefs. Visitors can explore lively town squares, colorful markets, and charming villages while tasting regional wines and local specialties. Italy’s warm hospitality and rich history create an unforgettable atmosphere throughout the journey. Travelers will have time to relax in cafes, discover hidden streets filled with history, and enjoy scenic countryside views covered in vineyards and olive trees. This tour is perfect for food lovers, history enthusiasts, and anyone looking to experience the beauty and culture of Italy in a fun and memorable way.",
+    image: "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9",
+    price: 2699,
+  },
+
+  {
+    id: "rec8Ef2Gh4JkLmNp6",
+    name: "Australian Coastal Explorer",
+    info: "Australia offers travelers a combination of modern cities, beautiful beaches, unique wildlife, and breathtaking coastal scenery. This coastal explorer tour takes visitors through famous destinations including Sydney, Melbourne, and the Great Barrier Reef. Guests can admire the Sydney Opera House, relax on golden beaches, and enjoy scenic drives along stunning ocean roads. The tour also includes opportunities to snorkel or dive in the Great Barrier Reef, where colorful coral reefs and marine life create one of the world’s most incredible underwater experiences. Travelers can encounter kangaroos, koalas, and other native wildlife while learning about Australia’s natural environment and indigenous culture. Outdoor adventures such as surfing lessons, coastal walks, and sunset cruises add excitement to the journey. Comfortable accommodations and guided experiences ensure travelers can fully enjoy Australia’s relaxed lifestyle and spectacular scenery. Whether visitors are exploring vibrant city streets or relaxing beside turquoise waters, this Australian coastal adventure provides unforgettable memories and a perfect mix of relaxation and exploration.",
+    image: "https://images.unsplash.com/photo-1506973035872-a4f23ef9b8c5",
+    price: 3099,
+  },
+]
